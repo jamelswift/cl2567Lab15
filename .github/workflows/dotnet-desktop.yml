@@ -1,7 +1,4 @@
-name: .NET Core Desktop
 
-on:
-  push:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
